@@ -1,0 +1,42 @@
+notes.txt
+constants/constants.go
+
+# Binaries and build artifacts
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+/build/
+
+# Temporary and cache files
+/tmp/
+.cache/
+
+# Vendor dependencies (if not committed)
+vendor/
+
+# Logs and test output
+*.log
+*.test
+
+# Environment and config files
+.env
+config.yaml
+config.json
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated files
+generated/
+
+
